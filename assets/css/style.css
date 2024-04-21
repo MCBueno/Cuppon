@@ -1,0 +1,68 @@
+body {
+    font-family: "roboto", sans-serif;
+}
+
+.navbar {
+    background-color: #28A745;
+}
+
+#section1 {
+    margin-top: 200px;
+}
+h4 {
+    color: #707070;
+    font-weight: lighter;
+    margin-right: 30px;
+    
+}
+
+h3 {
+    color: #28A745; 
+    margin-right: 20px;
+    font-weight: bold;
+}
+
+ul {
+    align-items: end;
+}
+
+#section2 {
+    background-color:#28A745 ;
+    height: 300px;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.boton {
+    background-color: white;
+}
+
+footer {
+    text-align: center;
+    height: 118px;
+}
+
+#logoblack {
+    width: 82px;
+    height: 24px;
+}
+
+.footertxt {
+    font-size: 16px;
+    font-weight: lighter;
+}
+
+.footer {
+    margin-top: 40px;
+}
+
+
+
+
+.TARJETA1 {
+    background-color: #28A745;
+}
